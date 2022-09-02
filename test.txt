@@ -1,4 +1,5 @@
 first line first
 second line
+2.5
 третья строка
 4th string
