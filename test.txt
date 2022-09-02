@@ -3,3 +3,4 @@ second line
 2.5
 третья строка
 4th string
+4.5
