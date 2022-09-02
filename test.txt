@@ -4,3 +4,5 @@ second line
 третья строка
 4th string
 5th
+
+test git revert
